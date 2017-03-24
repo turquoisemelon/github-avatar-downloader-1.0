@@ -1,13 +1,4 @@
 # GitHub Avatar Downloader
 
-## Problem Statement
+A command line node app that uses HTTP to retrieve content from GitHub using their API and write contents to disk.
 
-Given a GitHub repository name and owner, download all the contributors' profile images and save them to a subdirectory, `avatars/`.
-
-## Expected Usage
-
-This program should be executed from the command line, in the following manner:
-
-`node download_avatars.js jquery jquery`
-
-... (whatever else you'd like to include)
